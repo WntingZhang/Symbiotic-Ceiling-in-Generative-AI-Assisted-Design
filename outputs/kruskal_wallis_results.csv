@@ -1,0 +1,11 @@
+Outcome,Column,H,p-value,epsilon_squared
+Originality,originality_mean,136.6155574,2.03E-29,0.856509984
+Design quality,quality_mean,121.0250048,4.64E-26,0.756570543
+Cultural authenticity,cultural_authenticity_mean,136.8556774,1.80E-29,0.858049214
+Fixation,fixation_mean,135.0513896,4.41E-29,0.846483267
+Cultural flattening,cultural_flattening_mean,136.4673876,2.18E-29,0.855560177
+Ownership,felt_output_was_mine,107.6970636,3.43E-23,0.671135023
+AI reliance,ai_reliance,130.4778686,4.27E-28,0.817165824
+AI-reference similarity,similarity_to_ai_reference,149.2420382,3.84E-32,0.937448963
+Visual diversity,visual_diversity_score,124.5153889,8.22E-27,0.778944801
+SCI,SCI_score,138.2311491,9.10E-30,0.86686634
